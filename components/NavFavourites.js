@@ -36,7 +36,7 @@ const NavFavourites = () => {
                 lng: 13.4050
             },
             name: "Cafe",
-            destination: "Berlin Germany"
+            destination: "Berlin, Germany"
         },
     ]
 
