@@ -26,6 +26,7 @@ const HomeScreen = () => {
                 }}
             />
         <GooglePlacesAutocomplete
+            enablePoweredByContainer={false}
             styles={{
                 container: {
                     flex: 0
